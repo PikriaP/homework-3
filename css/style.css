@@ -246,45 +246,10 @@ span {
 .font2{
     font-family: 'Lato';
 }
-.ui-text1 {
+.ui-text {
     width: 328px;
     font-size: 16px;
     color: #FFFFFF;
     text-align: center;
-    margin: 0px 21px 23px 21px;
-}
-.ui-text2 {
-    width: 328px;
-    font-size: 16px;
-    color: #FFFFFF;
-    text-align: center;
-    margin: 0px 21px 23px 21px;
-}
-.ui-text3 {
-    width: 328px;
-    font-size: 16px;
-    color: #FFFFFF;
-    text-align: center;
-    margin: 0px 21px 23px 21px;
-}
-.ui-text4 {
-    width: 328px;
-    font-size: 16px;
-    color: #FFFFFF;
-    text-align: center;
-    margin: 0px 21px 23px 21px;
-}
-.ui-text5 {
-    width: 328px;
-    font-size: 16px;
-    color: #FFFFFF;
-    text-align: center;
-    margin: 0px 21px 23px 21px;
-}
-.ui-text6 {
-    width: 328px;
-    font-size: 16px;
-    color: #FFFFFF;
-    text-align: center;
-    margin: 0px 21px 23px 21px;
-}
+    margin: 63px 21px 23px 21px;
+
